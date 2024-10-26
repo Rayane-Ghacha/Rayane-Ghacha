@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a passionate of coding, excited to learn, an
 ### About Me
 - 🌱 I’m currently learning **Python, HTML/CSS, JavaScript**
 - 🎯 My goal: to become a skilled developer and work on interesting projects
-- 👨‍💻 Right now, I'm working on crea projects to build my skills
+- 👨‍💻 Right now, I'm working on creating projects to build my skills
 - 🌐 Interested in connecting and collaborating with other developers
 
 ### Programming

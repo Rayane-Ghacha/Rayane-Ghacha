@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Rayane Ghacha 💡
 
-<!--
-**Rayane-Ghacha/Rayane-Ghacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a passionate of coding, excited to learn, and always ready for new challenges. Here’s a bit more about me:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🌱 I’m currently learning **Python, HTML/CSS, JavaScript**
+- 🎯 My goal: to become a skilled developer and work on interesting projects
+- 👨‍💻 Right now, I'm working on crea projects to build my skills
+- 🌐 Interested in connecting and collaborating with other developers
+
+### Skills
+- *Python, html; css, JavaScript, c++*
+
+---
+
+### Let's Connect!
+- 💼 Insatagram: R4yan_gh
+- 📫 Email: rayaneghacha@gmail.com
+
+-Thanks for visiting my profile! Stay tuned as I continue learning and growing. 😊
+

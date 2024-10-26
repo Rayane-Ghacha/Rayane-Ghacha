@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I’m a passionate of coding, excited to learn, an
 ---
 
 ### Design app that i'm using
-[![My Skills](https://skillicons.dev/icons?i=ps,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,au,ai)](https://skillicons.dev)
 
 ---
 

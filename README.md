@@ -17,13 +17,9 @@ Welcome to my GitHub profile! I’m a passionate of coding, excited to learn, an
 
 ### Social Media
 [![My Skills](https://skillicons.dev/icons?i=instagram,discord,gmail)](https://skillicons.dev) 
-                                                                                 
-
----
-
-### Let's Connect!
-- 💼 Insatagram: R4yan_gh
+- 🌱 Insatagram: R4yan_gh
 - 📫 Email: rayaneghacha@gmail.com
+- 🌐 Discord: rayane08171
 
 -Thanks for visiting my profile! Stay tuned as I continue learning and growing. 😊
 

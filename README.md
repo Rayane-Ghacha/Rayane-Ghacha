@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I’m a passionate of coding, excited to learn, an
 - 🌐 Interested in connecting and collaborating with other developers
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,pythion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 
 ---
 
